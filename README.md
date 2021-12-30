@@ -1,7 +1,6 @@
 # CSS_Glassmorphism_Card_Hover_Effect
-# Python-Clock
 
-- It is python clock
+- It is 🤔🤔🤔🤔🤔
 
 ## Screenshot
 
